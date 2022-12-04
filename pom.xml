@@ -170,7 +170,7 @@
         <artifactId>allure-maven</artifactId>
         <version>${allure-maven.version}</version>
         <configuration>
-          <buildDirectory>C:\java\web_test</buildDirectory>
+          <buildDirectory>C:\java\Java_Web_UI</buildDirectory>
         </configuration>
       </plugin>
       <plugin>
